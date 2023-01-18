@@ -1,4 +1,4 @@
 # product-card
 
 link for visit page:
-https://jashankaur35.github.io/product-card/shoes_card.html
+https://jashankaur35.github.io/product-card/service_card.html
